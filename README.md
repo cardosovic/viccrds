@@ -13,6 +13,7 @@ Meu objetivo é atuar na área de Front-End (mas entendo a importância de se do
 ### 🔭 Meus estudos são baseados nas seguintes fontes:<br>
 - Roadmap.sh (https://roadmap.sh/frontend)
 - The Odin project (https://www.theodinproject.com)
+- W3Schools (https://www.w3schools.com/)
 - Curso em Vídeo (https://www.youtube.com/@CursoemVideo)
 - Fireship (https://www.youtube.com/@Fireship)
 - Developedbyed (https://www.youtube.com/@developedbyed)
